@@ -16,8 +16,8 @@ Lisez **avec attention** et faites **exactement** les points suivants, avec **pr
 **Une fois que cela fonctionne**, _et uniquement quand cela fonctionnera_, faites qu'une personne puisse avoir des enfants. Les enfants ne sont pas spécifiés/connus lors de la création de la personne, mais pourront être ajoutés par la suite (jusqu'à concurrence de 12 enfants au max).
 
 Modifiez le savoir-faire de la personne pour que lorsqu'on l'affiche, elle affichera en plus, sur de nouvelles lignes, les informations suivantes :
-"Voici les enfants de cette personne :"
-"- nom, prénom, sexe suivi de "Fils de …" et de "…" si les parents sont connus.
+"Voici les enfants de cette personne :"<br>
+"- nom, prénom, sexe suivi de "Fils de …" et de "…" si les parents sont connus.<br>
 "- nom, prénom, sexe suivi de "Fils de …" et de "…" si les parents sont connus.
 
 Dans le main(), affectez également des enfants aux personnes et affichez-les.
